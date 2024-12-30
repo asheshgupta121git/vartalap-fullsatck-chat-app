@@ -38,3 +38,19 @@ CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
+
+```
+
+## Build the app
+ ```bash
+npm run build
+
+```
+
+## Start the app
+```bash
+npm run start
+
+```
+
+## Don't forgot to give a star
